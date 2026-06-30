@@ -71,7 +71,7 @@ Para completar este teste, você deve concentrar-se principalmente em três arqu
 
 1. Clone o repositório: `git clone <URL_DO_REPOSITORIO>`
 2. Instale as dependências: `yarn install`
-3. Para instalar o projeto, execute o script `./install.sh` 
+3. Para instalar o projeto, execute o script `./install.sh`
 4. Inicie a aplicação: `yarn start`
 
 ### Scripts Disponíveis
@@ -101,6 +101,7 @@ Desenvolvido por [Matheus Gomes de Oliveira dos Santos]
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
+## ADENDOS
 
 Notas da Implementação:
 Ambiente: O projeto foi executado e testado utilizando o Node.js v25.9.0.
